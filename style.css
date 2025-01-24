@@ -225,7 +225,7 @@ main {
     cursor: pointer;
 }
 .card-content .card-title:hover {
-    color: hsl(35, 77%, 62%);
+    color: hsl(5, 85%, 63%);
 }
 .card-content .card-desc {
     color: #555;

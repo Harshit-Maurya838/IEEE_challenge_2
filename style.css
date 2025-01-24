@@ -4,9 +4,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
-    transition: .6s cubic-bezier(.74, -0.43, 0, 1.7);
 }
 body {
+    transition: .6s cubic-bezier(.74, -0.43, 0, 1.7);
     background-color: hsl(36, 100%, 99%);
     width: 100%;
     padding: 20px 80px;
